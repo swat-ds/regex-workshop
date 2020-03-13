@@ -10,25 +10,25 @@ To begin, we are going to use [the online tool regexr](https://regexr.com/). Exp
 
 Regex goes deep! Finding it all a little perplexing is the only right response. The original point was to describe states of mathematical "automata" in the most compact, condensed way possible. Not for mere mortals just trying to do their work. However, with a little patience, it really is boundless what all you can accomplish. Easier tools definitely exist for specific purposes, but there are few tools that are as flexible and transferable across interfaces and use cases with no programming required.
 
-- *Delimiters* are not always visible but worth making explicit: All regular expressions need delimiters to denote where they begin and end.
-- *Characters* describe literal string matches.
+- **Delimiters** are not always visible but worth making explicit: All regular expressions need delimiters to denote where they begin and end.
+- **Characters** describe literal string matches.
     - Non-printing characters
     - Escaping characters
-- *Character classes* describe categories including digits, words, spaces, or all of the things.
+- **Character classes** describe categories including digits, words, spaces, or all of the things.
     - `\d` (`\D`)
     - `\w` (`\W`)
     - `\s` (`\S`)
     - `.`
-- *Anchors* describe whether in the beginning or end of a line.
+- **Anchors** describe whether in the beginning or end of a line.
     - `^`, `$`
-- *Character sets* help group valid matches, when you want to match on OR another.
+- **Character sets** help group valid matches, when you want to match on OR another.
     - `[]`
-- *Quantifiers* describe how many of preceding character or character set.
+- **Quantifiers** describe how many of preceding character or character set.
     - `{}`
     - `*` (Kleene star)
     - `+`
     - `?` (:palm_tree: keep it laaaazy :palm_tree:)
-- :underage: *Capture groups and references* group matching strings so you can refer to them on the fly, either in the search itself or during find-and-replace. :underage:
+- :underage: **Capture groups and references** group matching strings so you can refer to them on the fly, either in the search itself or during find-and-replace. :underage:
     - `()`
     - `$1`
     - `\1`
