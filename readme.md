@@ -19,7 +19,7 @@ In this session, we will:
 
 [Key terms](sections/key-terms.md)
 
-[Regex basics](sections/regex-basics.md)
+[Regex basics](sections/basics.md)
 
 [Exercise 1: Cleanup](sections/cleanup.md)
 
