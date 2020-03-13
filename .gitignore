@@ -1,0 +1,15 @@
+_site
+.sass-cache
+.bundle
+.DS_Store
+.jekyll-metadata
+vendor
+docs
+node_modules
+assets/images/originals
+node_modules
+# Ignore the config file that's used for gh-pages.
+_config.gh-pages.yml
+
+Gemfile.lock
+images_orig
