@@ -35,7 +35,7 @@ Regex goes deep! Finding it all a little perplexing is the only right response. 
 
 ## Do try it at home
 
-1) Download the text of the [Swarthmore Phoenix (October 15, 1918)](../master/data/phoenix-ocr-1918-10-15.txt).
+1) Download the text of the [Swarthmore Phoenix (October 15, 1918)](../data/phoenix-ocr-1918-10-15.txt).
 2) Open it in Visual Studio Code.
 3) Select the search icon in the left sidebar.
 
